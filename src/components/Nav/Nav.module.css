@@ -1,0 +1,20 @@
+.nav {
+    grid-area: n;
+    background-color: black;
+  }
+
+.table {
+  list-style-type: none;
+}
+.item {
+ margin: 15px;
+}
+
+.item a {
+  color: orange;
+  text-decoration: none;
+}
+
+.item a.active{
+  color: blueviolet;
+}
