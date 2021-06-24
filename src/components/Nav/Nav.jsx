@@ -23,6 +23,9 @@ const Nav = () => {
                 <li className={`${classes.item} ${classes.active}`}>
                     <NavLink to="/settings" activeClassName={classes.active}>Settings</NavLink>
                 </li>
+                <li className={`${classes.item} ${classes.active}`}> 
+                    <NavLink to="/recomendation" activeClassName={classes.active}>Recomendation frends</NavLink>
+                </li>
             </ul>
         </nav>
     )

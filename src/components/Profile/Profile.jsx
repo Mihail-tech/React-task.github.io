@@ -1,15 +1,25 @@
 import React from 'react';
-import Post1 from './Post/Post1';
-import classes from './Profile.module.css';
+
 import Avatar from "./Avatar/Avatar"
-import PostInfo from './PostInfo/PostInfo';
+
+import PostInfoContainer from './PostInfo/PostInfoContainer';
+import Preloader from '../common/Preloader/Preloader';
 
 
-const Profile = () => {
+
+const Profile = (props) => {
+
+if(!props.profile){
+    return <Preloader />
+}
+
     return (
         <div>
-            <Avatar />
-            <PostInfo />
+            <Avatar 
+            profile={props.profile} 
+            status={props.status}
+            updateStatus={props.updateStatus} />
+            <PostInfoContainer />
 
         </div>
     )

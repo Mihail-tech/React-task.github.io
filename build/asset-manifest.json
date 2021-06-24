@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-task/static/css/main.9cb538a8.chunk.css",
+    "main.js": "/React-task/static/js/main.cd8236e2.chunk.js",
+    "main.js.map": "/React-task/static/js/main.cd8236e2.chunk.js.map",
+    "runtime-main.js": "/React-task/static/js/runtime-main.372fa2bc.js",
+    "runtime-main.js.map": "/React-task/static/js/runtime-main.372fa2bc.js.map",
+    "static/js/2.ae2ba267.chunk.js": "/React-task/static/js/2.ae2ba267.chunk.js",
+    "static/js/2.ae2ba267.chunk.js.map": "/React-task/static/js/2.ae2ba267.chunk.js.map",
+    "static/js/3.7314a0d9.chunk.js": "/React-task/static/js/3.7314a0d9.chunk.js",
+    "static/js/3.7314a0d9.chunk.js.map": "/React-task/static/js/3.7314a0d9.chunk.js.map",
+    "index.html": "/React-task/index.html",
+    "static/css/main.9cb538a8.chunk.css.map": "/React-task/static/css/main.9cb538a8.chunk.css.map",
+    "static/js/2.ae2ba267.chunk.js.LICENSE.txt": "/React-task/static/js/2.ae2ba267.chunk.js.LICENSE.txt",
+    "static/media/loading.006e018f.svg": "/React-task/static/media/loading.006e018f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.372fa2bc.js",
+    "static/js/2.ae2ba267.chunk.js",
+    "static/css/main.9cb538a8.chunk.css",
+    "static/js/main.cd8236e2.chunk.js"
+  ]
+}
